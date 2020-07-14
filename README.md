@@ -1,16 +1,5 @@
-# chem
+# agricultuer chemicals
 
-A new Flutter project.
+![Screenshot_1594183380](https://user-images.githubusercontent.com/63372032/87424539-666b3380-c5dc-11ea-8fc4-34ea2536804e.png)
+![Screenshot_1594183392](https://user-images.githubusercontent.com/63372032/87424544-679c6080-c5dc-11ea-864f-20c8cc7000c7.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
