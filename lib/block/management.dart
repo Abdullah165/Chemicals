@@ -44,21 +44,10 @@ class AppManagement extends ChangeNotifier{
 
 
   DbHelper _dbHelper;
-
-   initState(){
-    _dbHelper = DbHelper();
-    notifyListeners();
-    return _dbHelper;
-  }
+  
   void deleteItem(int id){
     _dbHelper = DbHelper();
     _dbHelper.deleteChemical(id);
     notifyListeners();
-  }
-
-  Future<void> callAllChemicals() async{
-    _dbHelper = DbHelper();
-     _dbHelper.allChemicals();
-     notifyListeners();
   }
 }
