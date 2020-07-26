@@ -1,5 +1,4 @@
 # agricultuer chemicals 
-# apk file link: https://webapp.diawi.com/install/eUoVSN
 
 # Sqlite database flutter 
 
